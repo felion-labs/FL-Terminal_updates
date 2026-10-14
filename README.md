@@ -44,6 +44,9 @@ Open the **[latest release](https://github.com/felion-labs/FL-Terminal_updates/r
         <li><b>Windows</b>: run the installer; it adds a Start menu entry and can be removed from Settings → Apps.</li>
         <li><b>Linux</b>: make the AppImage executable (<code>chmod +x</code>) and run it, or <code>sudo apt install ./FelionTerminal-…deb</code>.</li>
       </ul>
+      <b>First start</b>: until the builds carry a code-signing certificate, the system asks once.
+      On Windows choose <b>More info → Run anyway</b>; on macOS open <b>System Settings → Privacy &amp; Security</b>
+      and click <b>Open Anyway</b>.<br><br>
       <b>Checking a download</b>: every release has a <code>SHA256SUMS.txt</code>. Compare with
       <code>shasum -a 256 &lt;file&gt;</code> (macOS, Linux) or <code>Get-FileHash &lt;file&gt;</code> (PowerShell).
     </td>
