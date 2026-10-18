@@ -77,6 +77,7 @@ Open the **[latest release](https://github.com/felion-labs/FL-Terminal_updates/r
         <li>Port forwarding: local, remote and SOCKS.</li>
         <li><b>Serial</b> consoles and <b>Telnet</b> for network gear.</li>
         <li><b>rz / sz</b> (ZMODEM) file transfers right in the terminal.</li>
+        <li><b>Server graphs</b>: CPU, memory, disk and network of a Linux server, recorded while you're connected, so you can look back at last night. Nothing to install on the server.</li>
       </ul>
     </td>
   </tr>
@@ -112,6 +113,12 @@ Open the **[latest release](https://github.com/felion-labs/FL-Terminal_updates/r
   <tr>
     <td align="center"><sub><b>File manager</b>: this computer and the server side by side.</sub></td>
     <td align="center"><sub><b>Editor</b>: server files in tabs, saved back where they came from.</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="images/graphs.png" alt="Server graphs for web-01 over six hours: CPU, memory and disk throughput, with a nightly backup and a deploy standing out"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><sub><b>Server graphs</b>: CPU, memory, disk and network, from five minutes to ninety days.</sub></td>
   </tr>
   <tr>
     <td><img src="images/sessions.png" alt="Saved sessions in folders with host colours"></td>
