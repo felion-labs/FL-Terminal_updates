@@ -99,6 +99,16 @@ Open the **[latest release](https://github.com/felion-labs/FL-Terminal_updates/r
       </ul>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>Agents</h3>
+      <ul>
+        <li>Your <b>Claude Code</b> and <b>Codex</b> conversations, by project, with the running ones marked; resume any of them in a terminal, or stop one that runs elsewhere.</li>
+        <li><b>Chat with Claude Code in a pane</b>: replies stream in, edits show as diffs, and you allow or deny what it wants to do. It runs your own installed Claude Code, signed in as you.</li>
+        <li>Your plan's <b>5-hour and 7-day usage</b>, green, amber and red as it fills, with when you'd run out at this pace.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -119,6 +129,12 @@ Open the **[latest release](https://github.com/felion-labs/FL-Terminal_updates/r
   </tr>
   <tr>
     <td colspan="2" align="center"><sub><b>Server graphs</b>: CPU, memory, disk and network, from five minutes to ninety days.</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="images/agents.png" alt="The Agents tab with plan usage bars and a shop-api conversation, beside a chat pane where Claude Code added a /health route: a command card, the edit as a diff, and its answer"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><sub><b>Agents</b>: Claude Code in a pane, your conversations and your plan's usage beside it.</sub></td>
   </tr>
   <tr>
     <td><img src="images/sessions.png" alt="Saved sessions in folders with host colours"></td>
